@@ -1,0 +1,26 @@
+{
+    "bannerAdUnitId1": {
+        "true": "ca-app-pub-9527435734506351/6837642332_true",
+        "false": "ca-app-pub-9527435734506351/6837642332_false"
+    },
+    "bannerAdUnitId2": {
+        "true": "ca-app-pub-9527435734506351/6837642332_true",
+        "false": "ca-app-pub-9527435734506351/6837642332_false"
+    },
+    "interstitialAdUnitId1": {
+        "true": "ca-app-pub-9527435734506351/2935439234_true",
+        "false": "ca-app-pub-9527435734506351/2935439234_false"
+    },
+    "interstitialAdUnitId2": {
+        "true": "ca-app-pub-9527435734506351/2840400038_true",
+        "false": "ca-app-pub-9527435734506351/2840400038_false"
+    },
+    "interstitialAdUnitId3": {
+        "true": "ca-app-pub-9527435734506351/4836556726_true",
+        "false": "ca-app-pub-9527435734506351/4836556726_false"
+    },
+    "openaddId": {
+        "true": "ca-app-pub-9527435734506351/9309275896_true",
+        "false": "ca-app-pub-9527435734506351/9309275896_false"
+    }
+}
