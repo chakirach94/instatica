@@ -1,0 +1,17 @@
+[
+  {
+    "image": "https://via.placeholder.com/300",
+    "title": "Itemh",
+    "article": "<div> <h1>Demo</h1> <p>This is a sample paragraph.</p> </div>"
+  },
+  {
+    "image": "https://via.placeholder.com/300",
+    "title": "Itemw",
+    "article": "<div> <h1>Demo</h1> <p>This is a sample paragraph.</p> </div>"
+  },
+  {
+    "image": "https://via.placeholder.com/300",
+    "title": "Itemt",
+    "article": "<div> <h1>Demo</h1> <p>This is a sample paragraph.</p> </div>"
+  }
+]
