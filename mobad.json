@@ -40,6 +40,10 @@
         "true": "",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
+    "interstitialAdUnitId5": {
+        "true": "",
+        "false": "nativeAdUnitId"
+    },
     "openaddId": {
         "true": "",
         "false": "ca-app-pub-3940256099942544/3419835294"
